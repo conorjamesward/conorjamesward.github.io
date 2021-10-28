@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.35fa00d4.chunk.css",
-    "main.js": "/static/js/main.e96398e7.chunk.js",
-    "main.js.map": "/static/js/main.e96398e7.chunk.js.map",
+    "main.css": "/static/css/main.2e3daaae.chunk.css",
+    "main.js": "/static/js/main.c369f894.chunk.js",
+    "main.js.map": "/static/js/main.c369f894.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a089adbd.js",
     "runtime-main.js.map": "/static/js/runtime-main.a089adbd.js.map",
     "static/js/2.b65e68cd.chunk.js": "/static/js/2.b65e68cd.chunk.js",
     "static/js/2.b65e68cd.chunk.js.map": "/static/js/2.b65e68cd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.35fa00d4.chunk.css.map": "/static/css/main.35fa00d4.chunk.css.map",
+    "static/css/main.2e3daaae.chunk.css.map": "/static/css/main.2e3daaae.chunk.css.map",
     "static/js/2.b65e68cd.chunk.js.LICENSE.txt": "/static/js/2.b65e68cd.chunk.js.LICENSE.txt",
     "static/media/cloudsAndGlaciers.3c95f905.jpg": "/static/media/cloudsAndGlaciers.3c95f905.jpg",
     "static/media/coloSpgsWide.744e90d2.jpg": "/static/media/coloSpgsWide.744e90d2.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.a089adbd.js",
     "static/js/2.b65e68cd.chunk.js",
-    "static/css/main.35fa00d4.chunk.css",
-    "static/js/main.e96398e7.chunk.js"
+    "static/css/main.2e3daaae.chunk.css",
+    "static/js/main.c369f894.chunk.js"
   ]
 }
